@@ -7,12 +7,15 @@
 2. Create a solution_lastname.md file in the [solutions](solutions)
 
 ### Markdown Lists
-3. In the [README](README.md) file do numbers determine the order when creating a list?
+3. In the [README](README.md) file, do numbers determine the order when creating a list (look carefully)?
     * Bonus: provide 2 different ways of creating unordered lists in markdown. (hint: what characters are allowed) 
+    
+4. In the [README](READM.md) add your favorite movie to the list.
 
 ### Code snippets
-4. What language is the following code snippet written in?
-    * Bonus: what error is in the code snippet? Place your answer in a code snippet.
+5. What language is the following code snippet written in?
+    * Bonus: what error is in the code snippet?
+    * Bonus: put your answer in inline text block
 ```java
 abstract class Calculator {
 	abstract void calculate();
@@ -28,7 +31,7 @@ abstract class Calculator {
 ```
 
 ### Setup Repository
-5. Create a new repository with the following details
+6. Create a new repository with the following details
     * repository can be private or public 
       * note: private can only have up to 3 collaborators at a time (in free version)
       * note: repositories can be made private or public at anytime by the admin
