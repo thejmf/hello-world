@@ -13,21 +13,8 @@ Here's an ordered list (notice the numbers after the first one don't matter)
 5. Fudge Brownies
 6. Ice cream Sundae
 
-What error do you get in the following code? What language is it?
-```java
-abstract class Calculator {
-	abstract void calculate();
-
-	public static void main(String[] args) {
-		
-		System.out.println("calculating");
-		
-		Calculator x = null;
-		x.calculate();
-	}
-}
-```
-
 ## Students Spring 2019
 Add your favorite movie in this section:
-
+* Frozen
+* Rogue One
+* Avengers: Infinity War
